@@ -7,5 +7,5 @@ this repository contains my assignments
 
 [assignment week 5](https://github.com/RoyMatthijssen/assignments/blob/master/Assignment_week_5%20(1).ipynb)
 
-[assignment week 6](https://github.com/RoyMatthijssen/assignments/blob/f8c4b15cd3d6b1ec3c6eda711299c1cb1bca85ac/assignment4%20(2).ipynb)
+[assignment week 6](https://github.com/RoyMatthijssen/assignments/blob/master/assignment4%20(3).ipynb)
 
