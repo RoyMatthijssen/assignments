@@ -9,3 +9,5 @@ this repository contains my assignments
 
 [assignment week 6](https://github.com/RoyMatthijssen/assignments/blob/master/assignment4%20(3).ipynb)
 
+[assignment week 8](https://github.com/RoyMatthijssen/assignments/blob/master/assignment5.ipynb)
+
